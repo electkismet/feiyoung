@@ -1,15 +1,7 @@
 <p align="center">
   <img width="300" src="https://github.com/dapaoxixixi/feiyoung/raw/main/Image/logo.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">冲Young</h1>
-  <h5 align="center" style="margin: 0 auto 0 auto;">免心跳登陆，路由器登陆
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/github/last-commit/dapaoxixixi/feiyoung">
-    <img src="https://tokei.rs/b1/github/dapaoxixixi/feiyoung">
-    <img src="https://img.shields.io/github/contributors/dapaoxixixi/feiyoung">
-    <img src="https://img.shields.io/github/issues/dapaoxixixi/feiyoung?label=issues">
-    <img src="https://img.shields.io/github/stars/dapaoxixixi/feiyoung">
+  <h5 align="center" style="margin: 0 auto 0 auto;">免心跳登陆，路由器登陆，加密算法在历史提交里
   </p>
   
   <br>
